@@ -11,7 +11,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/alceanicu/PhpPasswordGenerator",
+    "homepage": "https://github.com/alceanicu/php-password-generator",
     "require": {
         "php": ">=8.0"
     },
