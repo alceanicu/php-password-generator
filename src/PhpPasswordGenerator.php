@@ -1,6 +1,6 @@
 <?php
 
-namespace alcea\generator;
+namespace alcea\PhpPasswordGenerator;
 
 final class PhpPasswordGenerator
 {
