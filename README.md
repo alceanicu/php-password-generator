@@ -20,9 +20,9 @@ composer require alcea/php-password-generator
 ```php
 <?php
 
-use alcea\generator\PhpPasswordGenerator;
+use alcea\PhpPasswordGenerator\PhpPasswordGenerator;
 
-// require __DIR__ . '\vendor\autoload.php';
+require __DIR__ . '\vendor\autoload.php';
 
 $passwordObj = new PhpPasswordGenerator();
     
